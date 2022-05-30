@@ -20,7 +20,7 @@ I'm Julien a little __Dev__ in The __Very_Big_Tech_World__ !
 - 🔭 I’m currently working on `source code`
 - 🌱 I’m currently learning _backend_ = __PHP__, __javascript__, __python__, __kotlin__ and _frontend_ = __html__, __css__, __javascript__
 - 💜 I love programing and I'm a self learner
-- 🔪 I sharpen my knowledge every days and I wan't to level up my skills in many languages
+- 🔪 I sharpen my knowledge every days and I wan't to level up my skills in many langages
 
 This is my __DEVCARD__:
 
