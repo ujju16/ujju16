@@ -35,3 +35,6 @@ This is my __DEVCARD__:
 
 - 🐧 I prefer a penguin system but I know 🪟 windows too
 - 👯 I’m looking to collaborate on many differents problems
+
+__I earn some badges:__
+[![@ujju16's Holopin board](https://holopin.io/api/user/board?user=ujju16)](https://holopin.io/@ujju16)
