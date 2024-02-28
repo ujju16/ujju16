@@ -24,9 +24,7 @@ I'm Julien a little __Dev__ in The __Very_Big_Tech_World__ !
 
 This is my __DEVCARD__:
 
-<a href="https://app.daily.dev/ujju16">
-<img src="https://github.com/ujju16/ujju16/blob/main/devcard.svg" width="400" alt="Julien PERRIN's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/ujju16"><img src="https://api.daily.dev/devcards/v2/_c_rxaAU-.png?r=t6s&type=default" width="356" alt="Julien PERRIN's Dev Card"/></a>
 
 
 - 💬 Ask me about what you want
