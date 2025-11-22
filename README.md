@@ -1,66 +1,217 @@
-# Welcome to ujju16's Portfolio
+<div align="center">
 
-[My Portfolio](https://ujju16.com)  
-[My GitHub](https://github.com/ujju16)  
+# 👨‍💻 Julien PERRIN | Autodidacte depuis 20 ans
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-cybersecurityflux.dev-00d9ff?logo=google-chrome&logoColor=white)](https://cybersecurityflux.dev)
+[![FluxElectrique](https://img.shields.io/badge/Entreprise-FluxElectrique.com-ff6b6b?logo=lightning&logoColor=white)](https://fluxelectrique.com)
 
-## Profile  
-Hi there! I’m ujju16, a passionate developer dedicated to crafting exceptional digital experiences. Welcome to my portfolio where you can explore my work and projects.
-
----
-
-## Professional Skills  
-| Skill               | Level       |  
-|---------------------|-------------|  
-| JavaScript          | 🌟🌟🌟🌟🌟  |  
-| Python              | 🌟🌟🌟🌟    |  
-| HTML/CSS           | 🌟🌟🌟🌟🌟  |  
-| React               | 🌟🌟🌟🌟    |  
+</div>
 
 ---
 
-## Projects  
-| Project Name        | Description                      | Link                  |
-|---------------------|----------------------------------|-----------------------|
-| Awesome Project     | A nifty project that does XYZ | [Live Demo](https://...) |
-| Cool App            | An app that solves ABC         | [Live Demo](https://...) |
+## 🎯 Profil
+
+Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** qui a transformé sa curiosité en expertise professionnelle. Technicien réparateur, développeur full-stack, et entrepreneur, je mets mes compétences au service de projets innovants dans les domaines de la **cybersécurité**, du **développement Android**, et de l'**administration système**.
+
+> *"La passion du savoir et l'amour des choses bien faites"*
 
 ---
 
-## Technical Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-00d9ff?style=flat-square&logo=javascript&logoColor=ffffff) ![Python](https://img.shields.io/badge/Python-00d9ff?style=flat-square&logo=python&logoColor=ffffff) ![React](https://img.shields.io/badge/React-00d9ff?style=flat-square&logo=react&logoColor=ffffff)
+## 💼 Compétences Professionnelles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Technicien Expert
+- 📱 Réparation Smartphones
+- 💻 Réparation Ordinateurs
+- 🛠️ Diagnostic & Maintenance
+- ⚡ Hardware & Software
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 Développement Full-Stack
+- 🤖 **Spécialisation Android**
+- 🌐 Frontend: HTML, CSS, JavaScript
+- ⚙️ Backend: PHP, Python, Kotlin
+- 🗄️ Bases de données & API
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersécurité
+- 🎓 Formation Coursera en cours
+- 🔍 Analyse de vulnérabilités
+- 🛡️ Sécurisation des systèmes
+- 🎯 Ethical Hacking
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Administration Système
+- 🐧 **Linux** (Expert)
+- 🪟 **Windows** (Expert)
+- 🍎 **macOS** (Avancé)
+- 🤖 **Android** (Expert)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Design & Création
+- 📐 Infographiste Metteur en Page
+- 🎨 UI/UX Design
+- 🖌️ Identité Visuelle
+- 📱 Responsive Design
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 DevOps & SysAdmin
+- 🔄 CI/CD
+- 🐳 Conteneurisation
+- 📊 Monitoring
+- ⚙️ Automatisation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujju16&show_icons=true&theme=radical)  
-[![Daily.dev Card](https://cdn.daily.dev/devcards/58dbf2e3c9ee490595c1d015d7a85473.png?r=nlh)](https://app.daily.dev/ujju16)
+## 🌐 Mes Projets & Réalisations
+
+<div align="center">
+
+| Projet | Type | Technologie | Lien |
+|:------:|:----:|:-----------:|:----:|
+| 🔐 **CyberSecurity Flux** | Portfolio Tech & Cybersécurité | Full-Stack | [cybersecurityflux.dev](https://cybersecurityflux.dev) |
+| 🏪 **L'esot'Lylaissé 71** | E-commerce | Web Development | [lesotlylaisse71.fr](https://lesotlylaisse71.fr) |
+| 🐾 **Carineland** | Site Vitrine | Web Design | [carineland.fr](https://carineland.fr) |
+| ⚡ **FluxElectrique** | Entreprise | Multi-services Tech | En construction |
+
+</div>
 
 ---
 
-## Badges & Certifications  
-### Holopin Badges  
-![Holopin Board](https://holopin.io/api/user/board?user=ujju16)  
-For more detailed view of my achievements and badges, visit my Holopin profile: [ujju16 on Holopin](https://holopin.me/ujju16)  
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### Langages
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Systèmes & Outils
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### Spécialisations
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00d9ff?logo=security&logoColor=black)
+![Android Dev](https://img.shields.io/badge/Android_Dev-3DDC84?logo=android&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-ff6b6b?logo=stackshare&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-FFA500?logo=chip&logoColor=white)
+
+</div>
 
 ---
 
-## Education Path  
-- B.Sc. in Computer Science
-- Online courses in Web Development
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://app.daily.dev/ujju16"><img src="https://api.daily.dev/devcards/v2/_c_rxaAU-.png?type=default&r=1xw" width="356" alt="Julien PERRIN's Dev Card"/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujju16&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujju16&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)
+
+</div>
 
 ---
 
-## Philosophy Quotes  
-> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+## 🏆 Badges & Certifications
+
+<div align="center">
+
+### 🎖️ Holopin Badges Board
+
+[![Holopin Board](https://holopin.io/api/user/board?user=ujju16)](https://holopin.io/@ujju16)
+
+*Cliquez sur le tableau ci-dessus pour voir tous mes badges en détail !*
+
+#### 📌 Profil Holopin Complet
+[![@ujju16's Holopin board](https://holopin.me/ujju16)](https://holopin.io/@ujju16)
 
 ---
 
-## Contact  
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/ujju16).
+### 📜 Autres Certifications
+
+![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity-0056D2?logo=coursera&logoColor=white)
+![Self-Taught](https://img.shields.io/badge/Autodidacte-20_ans-success?logo=bookstack&logoColor=white)
+
+</div>
 
 ---
 
-## Footer  
-Thanks for visiting my portfolio! Profile views: [Counter](https://counter.com/ujju16)
+## 🎓 Parcours & Formation
+
+```
+📅 20+ ans d'expérience autodidacte
+🎨 Formation Infographiste Metteur en Page
+🔧 Technicien Réparateur (Smartphones & Ordinateurs)
+💻 Développeur Full-Stack (Spécialisation Android)
+🔐 Études Cybersécurité (Coursera - En cours)
+🚀 Entrepreneur (FluxElectrique.com)
+```
+
+---
+
+## 💡 Ma Philosophie
+
+<div align="center">
+
+> *"J'adore mettre les mains dans le cambouis et opérer des appareils"*
+
+> *"Hacker des systèmes, comprendre leur fonctionnement, et les améliorer"*
+
+> *"Polyglotte du développement, DevOps et SysAdmin"*
+
+</div>
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cybersecurityflux.dev-00d9ff)](https://cybersecurityflux.dev)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-ff6b6b)](mailto:jul.darrouza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ujju16-181717?logo=github)](https://github.com/ujju16)
+
+**FluxElectrique.com** - *Solutions Technologiques Complètes*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 *Passion pour le savoir • Amour des choses bien faites*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ujju16&color=00d9ff)
+
+</div>
