@@ -1,38 +1,27 @@
-### Hi Everyone 👋
+# Welcome to My Profile
 
-<!--
-**ujju16/ujju16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
+I am a seasoned technician with over 20 years of self-learning and professional experience in the tech industry. My journey has shaped me into a versatile full-stack developer, with a deep understanding of both front-end and back-end technologies.
 
+### Skills:
+- **Full-Stack Development**: Proficient in creating seamless web applications and interactive user experiences.
+- **Cybersecurity Studies**: Dedicated to studying cybersecurity principles to protect applications and data from threats.
+- **Polyglot Skills**: Fluent in multiple programming languages, enabling me to adapt to various project requirements.
+- **Graphic Design Background**: Combining technical prowess with a creative eye for design.
 
+### My Passion
+I am passionate about continuous learning and sharing knowledge with others. I actively engage in communities to foster growth and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Julien a little __Dev__ in The __Very_Big_Tech_World__ !
+---
 
-- 🔭 I’m currently working on `source code`
-- 🌱 I’m currently learning _backend_ = __PHP__, __javascript__, __python__, __kotlin__ and _frontend_ = __html__, __css__, __javascript__
-- 💜 I love programing and I'm a self learner
-- 🔪 I sharpen my knowledge every days and I wan't to level up my skills in many langages
+### Achievements
+* 🏆 20 Years of Self-Learning
+* 🛠️ Expert Technician
+* 💻 Full-Stack Development
+* 🔐 Cybersecurity Advocate
+* 🖌️ Graphic Designer
 
-This is my __DEVCARD__:
+---
 
-<a href="https://app.daily.dev/ujju16"><img src="https://api.daily.dev/devcards/v2/_c_rxaAU-.png?r=t6s&type=default" width="356" alt="Julien PERRIN's Dev Card"/></a>
-
-
-- 💬 Ask me about what you want
-
-### System:
-
-- 🐧 I prefer a penguin system but I know 🪟 windows too
-- 👯 I’m looking to collaborate on many differents problems
-
-__I earn some badges:__
-[![@ujju16's Holopin board](https://holopin.io/api/user/board?user=ujju16)](https://holopin.io/@ujju16)
+Thank you for visiting my profile! Feel free to reach out to connect or collaborate.
