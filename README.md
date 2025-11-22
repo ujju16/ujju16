@@ -2,8 +2,8 @@
 
 # 👨‍💻 Julien PERRIN | Autodidacte depuis 20 ans
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cybersecurityflux.dev-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybersecurityflux.dev)
-[![FluxElectrique](https://img.shields.io/badge/Entreprise-FluxElectrique.com-ff6b6b?style=for-the-badge&logo=lightning&logoColor=white)](https://fluxelectrique.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cybersecurityflux.dev-00d9ff?style=flat-square&logo=google-chrome&logoColor=white)](https://cybersecurityflux.dev)
+[![FluxElectrique](https://img.shields.io/badge/Entreprise-FluxElectrique.com-ff6b6b?style=flat-square&logo=lightning&logoColor=white)](https://fluxelectrique.com)
 
 </div>
 
@@ -104,26 +104,26 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 <div align="center">
 
 ### Langages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Systèmes & Outils
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Spécialisations
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00d9ff?style=for-the-badge&logo=security&logoColor=black)
-![Android Dev](https://img.shields.io/badge/Android_Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full_Stack-ff6b6b?style=for-the-badge&logo=stackshare&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-FFA500?style=for-the-badge&logo=chip&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00d9ff?style=flat-square&logo=security&logoColor=black)
+![Android Dev](https://img.shields.io/badge/Android_Dev-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-ff6b6b?style=flat-square&logo=stackshare&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-FFA500?style=flat-square&logo=chip&logoColor=white)
 
 </div>
 
@@ -149,8 +149,8 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 [![Holopin Board](https://holopin.io/api/user/board?user=ujju16)](https://holopin.io/@ujju16)
 
-![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Self-Taught](https://img.shields.io/badge/Autodidacte-20_ans-success?style=for-the-badge&logo=bookstack&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-Cybersecurity-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![Self-Taught](https://img.shields.io/badge/Autodidacte-20_ans-success?style=flat-square&logo=bookstack&logoColor=white)
 
 </div>
 
@@ -187,9 +187,9 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cybersecurityflux.dev-00d9ff?style=for-the-badge)](https://cybersecurityflux.dev)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-ff6b6b?style=for-the-badge)](mailto:jul.darrouza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ujju16-181717?style=for-the-badge&logo=github)](https://github.com/ujju16)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cybersecurityflux.dev-00d9ff?style=flat-square)](https://cybersecurityflux.dev)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-ff6b6b?style=flat-square)](mailto:jul.darrouza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ujju16-181717?style=flat-square&logo=github)](https://github.com/ujju16)
 
 **FluxElectrique.com** - *Solutions Technologiques Complètes*
 
@@ -201,6 +201,6 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 ### 🔥 *Passion pour le savoir • Amour des choses bien faites*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ujju16&color=00d9ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ujju16&color=00d9ff&style=flat-square)
 
 </div>
