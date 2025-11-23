@@ -19,68 +19,75 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 ## 💼 Compétences Professionnelles
 
+<div align="center">
+
 <table>
+<thead>
 <tr>
-<td width="50%" valign="top">
+<th width="50%" align="center">🔧 Hardware & Réparation</th>
+<th width="50%" align="center">👨‍💻 Développement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
 
-### 🔧 Technicien Expert
-- 📱 Réparation Smartphones
-- 💻 Réparation Ordinateurs
-- 🛠️ Diagnostic & Maintenance
-- ⚡ Hardware & Software
+### Technicien Expert
+- 📱 **Réparation Smartphones** (iOS & Android)
+- 💻 **Réparation Ordinateurs** (PC & Mac)
+- 🔬 **Diagnostic Électronique** avancé
+- ⚡ **Micro-soudure** & composants
+- 🛠️ **Maintenance préventive** & curative
+- 🔧 **Récupération de données**
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 👨‍💻 Développement Full-Stack
-- 🤖 **Spécialisation Android**
-- 🌐 Frontend: HTML, CSS, JavaScript
-- ⚙️ Backend: PHP, Python, Kotlin
-- 🗄️ Bases de données & API
+### Développeur Full-Stack
+- 🤖 **Spécialisation Android** (Kotlin/Java)
+- 🌐 **Frontend** : HTML5, CSS3, JavaScript
+- ⚙️ **Backend** : PHP, Python, Node.js
+- 🗄️ **Bases de données** : MySQL, PostgreSQL
+- 🔌 **API REST** & WebServices
+- 📱 **Progressive Web Apps** (PWA)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔐 Cybersécurité
-- 🎓 Formation Coursera en cours
-- 🔍 Analyse de vulnérabilités
-- 🛡️ Sécurisation des systèmes
-- 🎯 Ethical Hacking
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ Administration Système
-- 🐧 **Linux** (Expert)
-- 🪟 **Windows** (Expert)
-- 🍎 **macOS** (Avancé)
-- 🤖 **Android** (Expert)
-
-</td>
+<th align="center">🔐 Sécurité & Systèmes</th>
+<th align="center">🎨 Design & UX</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🎨 Design & Création
-- 📐 Infographiste Metteur en Page
-- 🎨 UI/UX Design
-- 🖌️ Identité Visuelle
-- 📱 Responsive Design
+### Cybersécurité & SysAdmin
+- 🎓 **Formation Coursera** (en cours)
+- 🔍 **Pentest** & Analyse de vulnérabilités
+- 🛡️ **Hardening** & Sécurisation systèmes
+- 🐧 **Linux** : Debian, Ubuntu, Arch (Expert)
+- 🪟 **Windows** : 10/11, Server (Expert)
+- 🍎 **macOS** & 🤖 **Android** (Avancé)
+- 🐳 **Docker** & Conteneurisation
+- 🔄 **CI/CD** & Automatisation
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-### 🚀 DevOps & SysAdmin
-- 🔄 CI/CD
-- 🐳 Conteneurisation
-- 📊 Monitoring
-- ⚙️ Automatisation
+### Design & Création
+- 📐 **Infographiste** Metteur en Page (certifié)
+- 🎨 **UI/UX Design** & Wireframing
+- 🖌️ **Identité Visuelle** & Branding
+- 📱 **Responsive Design** mobile-first
+- 🎯 **Adobe Suite** : Photoshop, Illustrator
+- 💡 **Figma** & Prototypage
+- 🌈 **Accessibilité** (WCAG)
 
 </td>
 </tr>
+</tbody>
 </table>
+
+</div>
 
 ---
 
