@@ -142,7 +142,7 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 <a href="https://app.daily.dev/ujju16"><img src="https://api.daily.dev/devcards/v2/_c_rxaAU-.png?type=default&r=1xw" width="356" alt="Julien PERRIN's Dev Card"/></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujju16&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujju16&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff)](https://github.com/ujju16)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujju16&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff)
 
@@ -155,12 +155,6 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 <div align="center">
 
 ### 🎖️ Holopin Badges Board
-
-[![Holopin Board](https://holopin.io/api/user/board?user=ujju16)](https://holopin.io/@ujju16)
-
-*Cliquez sur le tableau ci-dessus pour voir tous mes badges en détail !*
-
-#### 📌 Profil Holopin Complet
 [![@ujju16's Holopin board](https://holopin.me/ujju16)](https://holopin.io/@ujju16)
 
 ---
