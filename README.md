@@ -150,6 +150,73 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 ---
 
+## 📋 The Mermaid Code
+
+`graph TD
+    %% Styling - Cyberpunk/Terminal Theme
+    classDef secure fill:#0f3,stroke:#000,stroke-width:2px,color:#000;
+    classDef danger fill:#f03,stroke:#000,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
+    classDef infra fill:#222,stroke:#0f3,stroke-width:2px,color:#fff;
+    classDef pipeline fill:#00f,stroke:#fff,stroke-width:1px,color:#fff;
+
+    subgraph CI_CD_Pipeline [🔒 Secure Supply Chain]
+        Repo[GitHub Repository]:::pipeline -->|Push| Action[GitHub Actions]:::pipeline
+        Action -->|Trigger| PyGuard[🐍 Python Security Audit<br/>(Secret Scan + Docker Lint)]:::secure
+        PyGuard -->|Pass| Registry[Container Registry]:::pipeline
+        PyGuard -->|Fail| Stop((⛔ Stop Build)):::danger
+    end
+
+    subgraph K8s_Cluster [☸️ Kubernetes Cluster (The Museum)]
+        Registry -.->|Pull Image| Controller[K8s Controller]:::infra
+        
+        subgraph Air_Gapped_Zone [🚫 Air-Gapped Namespace]
+            direction TB
+            
+            subgraph Pod_1 [VM: Brain (1986)]
+                DOS[DOSBox Emulator]:::infra
+                Virus1(🦠 Brain.A Boot Sector):::danger
+                DOS --- Virus1
+            end
+            
+            subgraph Pod_2 [VM: Morris (1988)]
+                VAX[SIMH VAX-11]:::infra
+                Virus2(🦠 Morris Worm):::danger
+                VAX --- Virus2
+            end
+            
+            subgraph Pod_3 [VM: ILOVEYOU (2000)]
+                Win[QEMU Win2k]:::infra
+                Virus3(🦠 VBS Script):::danger
+                Win --- Virus3
+            end
+        end
+
+        NetPol{🛡️ Network Policy<br/>Deny All Egress}:::secure
+        NetPol -.-x|Block Traffic| Air_Gapped_Zone
+    end
+
+    User(👨‍💻 Researcher) -->|Secure Proxy| Controller`
+
+## 🏗️ Architecture & Security Protocol
+
+This project utilizes a **Zero-Trust** approach to malware analysis. The architecture is designed to bridge historical software preservation with modern DevSecOps standards.
+
+### 1. 🔒 Secure Supply Chain (CI/CD)
+Before any code reaches the cluster, it passes through a custom **Python Security Pipeline** (`scripts/security_audit.py`).
+* **Static Analysis:** Scans for hardcoded secrets and vulnerable base images.
+* **Integrity Checks:** Verifies SHA-256 hashes of malware artifacts to ensure authenticity without execution.
+* **Linting:** Enforces non-root user execution in Dockerfiles.
+
+### 2. 🛡️ The Air-Gapped Sandbox
+The runtime environment is hosted on **Kubernetes**, leveraging namespaces for strict isolation.
+* **Network Policies:** A `Deny-All-Egress` policy is applied to the `malware-zoo` namespace. No traffic can leave the pod, preventing worm propagation (e.g., Morris Worm).
+* **Ephemeral Environments:** Containers are stateless. A restart wipes any persistence mechanisms attempted by the malware.
+
+### 3. 🦠 Emulation Layer
+Instead of virtualization, we use specific emulators (DOSBox, SIMH, QEMU) wrapped in minimal **Docker** containers. This allows us to run 16-bit and 32-bit legacy code on modern Linux nodes while maintaining a barrier between the host kernel and the malicious payload.
+
+---
+
 ## 🏆 Badges & Certifications
 
 <div align="center">
