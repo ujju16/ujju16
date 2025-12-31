@@ -152,7 +152,7 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 
 ## 📋 The Mermaid Code
 
-`graph TD
+ graph TD
     %% Styling - Cyberpunk/Terminal Theme
     classDef secure fill:#0f3,stroke:#000,stroke-width:2px,color:#000;
     classDef danger fill:#f03,stroke:#000,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
@@ -195,7 +195,7 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
         NetPol -.-x|Block Traffic| Air_Gapped_Zone
     end
 
-    User(👨‍💻 Researcher) -->|Secure Proxy| Controller`
+    User(👨‍💻 Researcher) -->|Secure Proxy| Controller
 
 ## 🏗️ Architecture & Security Protocol
 
