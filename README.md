@@ -100,7 +100,7 @@ Passionné de technologie depuis plus de **20 ans**, je suis un **autodidacte** 
 | 🔐 **CyberSecurity Flux** | Portfolio Tech & Cybersécurité | Full-Stack | [cybersecurityflux.dev](https://cybersecurityflux.dev) |
 | 🏪 **L'esot'Lylaissé 71** | E-commerce | Web Development | [lesotlylaisse71.fr](https://lesotlylaisse71.fr) |
 | 🐾 **Carineland** | Site Vitrine | Web Design | [carineland.fr](https://carineland.fr) |
-| ⚡ **FluxElectrique** | Entreprise | Multi-services Tech | En construction |
+| ⚡ **FluxElectrique** | Entreprise | Multi-services Tech | [fluxelectrique.com](https://www.fluxelectrique.com) |
 
 </div>
 
